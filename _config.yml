@@ -18,7 +18,7 @@ author:
   url:            https://twitter.com/thinkxl
 
 # Custom vars
-version:          1.0.0
+version:          0.1.0
 
 github:
-  repo:           https://github.com/poole/lanyon
+  repo:           https://github.com/frontendsnews/blog/ 
