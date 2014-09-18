@@ -1,3 +1,3 @@
-# Frontends blog
+# Frontends Blog
 
 *About our community*
